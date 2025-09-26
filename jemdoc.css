@@ -8,10 +8,14 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family:  "Noto Serif SC", Georgia, serif;
+	font-family:  "Noto Serif SC", "Source Han Serif SC", "Songti SC", "Noto Serif CJK SC",
+    "STSong", "SimSun", "PMingLiU", "Microsoft YaHei",
+    "PingFang SC", "Hiragino Sans GB",
+    Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
+
 
 #layout-menu {
 	background: #f6f6f6;
