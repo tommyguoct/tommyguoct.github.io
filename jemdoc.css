@@ -8,8 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif, "Noto Serif SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
-               "Noto Sans SC", "Source Han Serif SC";
+	font-family:  "Noto Serif SC", Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
